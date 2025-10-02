@@ -2,12 +2,11 @@
 
 ## Sobre o Projeto
 Este é um projeto simples, desenvolvido em **HTML puro**, com o objetivo de servir como uma mini página de apresentação pessoal. O projeto foi criado para consolidar conhecimentos básicos de front-end, focando na estruturação do conteúdo de forma clara e acessível.
-
 ## Funcionalidades
 *   Título de destaque com o nome do projeto.
-*   Exibe uma foto do bolo para atrair o leitor.
-*   Lista de ingredientes: Separa os ingredientes da massa e da cobertura em listas não ordenadas.
-*   Modo de preparo: Detalha o passo a passo da receita em uma lista ordenada
+*   Seção de apresentação com uma breve biografia.
+*   Lista não ordenada com hobbies e interesses pessoais.
+*   Link externo para o perfil do LinkedIn, abrindo em uma nova aba.
 
 ## Tecnologias Utilizadas
 *   HTML5
