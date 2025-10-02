@@ -5,9 +5,9 @@ Este é um projeto simples, desenvolvido em **HTML puro**, com o objetivo de ser
 
 ## Funcionalidades
 *   Título de destaque com o nome do projeto.
-*   Seção de apresentação com uma breve biografia.
-*   Lista não ordenada com hobbies e interesses pessoais.
-*   Link externo para o perfil do LinkedIn, abrindo em uma nova aba.
+*   Exibe uma foto do bolo para atrair o leitor.
+*   Lista de ingredientes: Separa os ingredientes da massa e da cobertura em listas não ordenadas.
+*   Modo de preparo: Detalha o passo a passo da receita em uma lista ordenada
 
 ## Tecnologias Utilizadas
 *   HTML5
